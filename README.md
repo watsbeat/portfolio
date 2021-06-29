@@ -5,11 +5,6 @@
 
 ## Wireframes
 
----
-
 ### Typography
-
-- Poppins
-- Size 12
 
 ### Brand Colours
